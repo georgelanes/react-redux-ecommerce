@@ -1,11 +1,18 @@
 ## Simple Reactjs ecommerce
 
 - Reactjs
-- Redux
+- Styled Components
+- Redux / React Redux
 - Redux Saga
-- Reactoron
+- Reactoron (reactotron-react, reactotron-redux and reactotron-redux-saga)
 - React Tostify
 - json-server to use fake products Api
+
+---
+
+## Objective
+
+This project was the objective to show how to build an app using Reactjs, Redux, Redux Saga and show the console log with Reactotron.
 
 ---
 
@@ -30,6 +37,6 @@ Open on your browser http://localhost:3000
 
 ---
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+MIT license.
