@@ -1,6 +1,4 @@
-## Simples Reactjs ecommerce
-
----
+## Simple Reactjs ecommerce
 
 - Reactjs
 - Redux
